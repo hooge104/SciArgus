@@ -25,6 +25,7 @@ Nature Sustainability
 Nature Plants
 Nature Water
 Nature Computational Science
+Nature Reviews Biodiversity
 Scientific Data
 Nature Methods
 Trends in Ecology & Evolution
